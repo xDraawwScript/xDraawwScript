@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Menace
+- 👋 Hi, I’m draaww
 - 👀 I’m interested in football, to learn programing
 - 🌱 I’m currently approfounding python, learning java, i master xtml/css
-- 📫 You can reac me on discord : !  Menace#8936
+- 📫 You can reac me on discord : !  draaww#8936
 
 <!---
 xDraawwScript/xDraawwScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
