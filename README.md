@@ -1,10 +1,8 @@
 - 👋 Hi, I’m draaww
-- 👀 I’m interested in football, to learn programing
-- 🌱 I’m currently approfounding python, learning java, i master xtml/css
-- 📫 You can reac me on discord : draaww#8936
+- 📫 You can reac me on discord : draaww
 
 <!---
 xDraawwScript/xDraawwScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- This github have been created for future project for school.
+- This github have been created for school.
