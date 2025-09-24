@@ -1,5 +1,5 @@
-- 👋 Hi, I’m draaww
-- 📫 You can reach me on discord : letspretendlove
+- 👋 Hi, I’m mat
+- 📫 You can reach me on discord : quedelavie
 
 <!---
 xDraawwScript/xDraawwScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
